@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+
+# Model weights (too large for GitHub)
+models/yolov4.weights
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Outputs
+outputs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
